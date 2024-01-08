@@ -1,6 +1,6 @@
-# Indian Government Data Project
+# Visualizing Banglore City Ward data
 
-Welcome to the Indian Government Data Project repository! This repository showcases sample work from a collaborative project with the goal of making government data available for every Indian citizen.
+This repository showcases sample work from a collaborative project with the goal of making government data available for every Indian citizen.
 
 ## Overview
 
